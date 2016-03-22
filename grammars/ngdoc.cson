@@ -1,0 +1,10 @@
+"name": "NgDoc"
+"scopeName": "text.ngdoc"
+"fileTypes": [
+  "ngdoc"
+]
+"patterns": [
+  {
+    "include": "text.html.basic"
+  }
+]
