@@ -1,6 +1,6 @@
 {
   "name": "language-ngdoc",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds syntax highlighting for NgDoc in Atom Editor.",
   "keywords": [
     "ngdoc",
